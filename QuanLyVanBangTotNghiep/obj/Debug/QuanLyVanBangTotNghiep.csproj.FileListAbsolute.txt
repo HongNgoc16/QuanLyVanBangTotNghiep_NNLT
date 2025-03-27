@@ -24,3 +24,29 @@ D:\Ngôn ngữ lập trình\Bài tập lớn\QuanLyVanBangTotNghiep\obj\Debug\Qu
 D:\Ngôn ngữ lập trình\Bài tập lớn\QuanLyVanBangTotNghiep\obj\Debug\QuanLyVanBangTotNghiep.formChuyenNganh.resources
 D:\Ngôn ngữ lập trình\Bài tập lớn\QuanLyVanBangTotNghiep\obj\Debug\QuanLyVanBangTotNghiep.formSinhVien.resources
 D:\Ngôn ngữ lập trình\Bài tập lớn\QuanLyVanBangTotNghiep\obj\Debug\QuanLyVanBangTotNghiep.formXepLoaiTN.resources
+D:\BTL\QuanLyVanBangTotNghiep\bin\Debug\QuanLyVanBangTotNghiep.exe.config
+D:\BTL\QuanLyVanBangTotNghiep\bin\Debug\QuanLyVanBangTotNghiep.exe
+D:\BTL\QuanLyVanBangTotNghiep\bin\Debug\QuanLyVanBangTotNghiep.pdb
+D:\BTL\QuanLyVanBangTotNghiep\obj\Debug\QuanLyVanBangTotNghiep.csproj.AssemblyReference.cache
+D:\BTL\QuanLyVanBangTotNghiep\obj\Debug\QuanLyVanBangTotNghiep.formNganhHoc.resources
+D:\BTL\QuanLyVanBangTotNghiep\obj\Debug\QuanLyVanBangTotNghiep.BoPhanDuyet.resources
+D:\BTL\QuanLyVanBangTotNghiep\obj\Debug\QuanLyVanBangTotNghiep.DangKyCapBanSao.resources
+D:\BTL\QuanLyVanBangTotNghiep\obj\Debug\QuanLyVanBangTotNghiep.DangNhap.resources
+D:\BTL\QuanLyVanBangTotNghiep\obj\Debug\QuanLyVanBangTotNghiep.frmTrangChu.resources
+D:\BTL\QuanLyVanBangTotNghiep\obj\Debug\QuanLyVanBangTotNghiep.GuiYeuCauChinhSua.resources
+D:\BTL\QuanLyVanBangTotNghiep\obj\Debug\QuanLyVanBangTotNghiep.HuongDan.resources
+D:\BTL\QuanLyVanBangTotNghiep\obj\Debug\QuanLyVanBangTotNghiep.BoPhanQuanLy.resources
+D:\BTL\QuanLyVanBangTotNghiep\obj\Debug\QuanLyVanBangTotNghiep.formDonViQuanLy.resources
+D:\BTL\QuanLyVanBangTotNghiep\obj\Debug\QuanLyVanBangTotNghiep.formKhoaHoc.resources
+D:\BTL\QuanLyVanBangTotNghiep\obj\Debug\QuanLyVanBangTotNghiep.formChuyenNganh.resources
+D:\BTL\QuanLyVanBangTotNghiep\obj\Debug\QuanLyVanBangTotNghiep.formNguoiDung.resources
+D:\BTL\QuanLyVanBangTotNghiep\obj\Debug\QuanLyVanBangTotNghiep.formPhanQuyen.resources
+D:\BTL\QuanLyVanBangTotNghiep\obj\Debug\QuanLyVanBangTotNghiep.formSinhVien.resources
+D:\BTL\QuanLyVanBangTotNghiep\obj\Debug\QuanLyVanBangTotNghiep.formXepLoaiTN.resources
+D:\BTL\QuanLyVanBangTotNghiep\obj\Debug\QuanLyVanBangTotNghiep.QuanTriVien.resources
+D:\BTL\QuanLyVanBangTotNghiep\obj\Debug\QuanLyVanBangTotNghiep.GUI.TraCuuVanBang.resources
+D:\BTL\QuanLyVanBangTotNghiep\obj\Debug\QuanLyVanBangTotNghiep.Properties.Resources.resources
+D:\BTL\QuanLyVanBangTotNghiep\obj\Debug\QuanLyVanBangTotNghiep.csproj.GenerateResource.cache
+D:\BTL\QuanLyVanBangTotNghiep\obj\Debug\QuanLyVanBangTotNghiep.csproj.CoreCompileInputs.cache
+D:\BTL\QuanLyVanBangTotNghiep\obj\Debug\QuanLyVanBangTotNghiep.exe
+D:\BTL\QuanLyVanBangTotNghiep\obj\Debug\QuanLyVanBangTotNghiep.pdb
