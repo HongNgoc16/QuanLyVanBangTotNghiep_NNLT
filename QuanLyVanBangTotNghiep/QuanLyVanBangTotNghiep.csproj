@@ -50,7 +50,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Entity\Dm_SinhVien.cs" />
     <Compile Include="Entity\Dm_PhanQuyenNguoiDung.cs" />
     <Compile Include="Entity\Dm_XepLoai.cs" />
     <Compile Include="formNganhHoc.cs">

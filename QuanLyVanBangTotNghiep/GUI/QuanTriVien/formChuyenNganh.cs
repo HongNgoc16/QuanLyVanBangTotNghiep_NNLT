@@ -16,10 +16,5 @@ namespace QuanLyVanBangTotNghiep
         {
             InitializeComponent();
         }
-
-        private void buttonThemMoi_Click(object sender, EventArgs e)
-        {
-
-        }
     }
 }
